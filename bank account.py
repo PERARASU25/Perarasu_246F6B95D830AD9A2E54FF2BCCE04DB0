@@ -26,7 +26,7 @@ class BankAccount:
         self.__account_balance))
 # Create an instance of the BankAccount class
 account = BankAccount(account_number="6374397794",
-                      account_holder_name="Sanjaym",
+                      account_holder_name="Perarasus",
                       initial_balance=7000.0)
 # Test deposit and withdrawal functionality
 account.display_balance()
